@@ -1,8 +1,8 @@
 Package: oneshot
 Architecture: all
-Maintainer: Rem01Gaming
+Maintainer: Rem01Gaming & Hung319
 Installed-Size: 650
-Version: 1.0.1
-Homepage: https://github.com/Rem01Gaming/oneshot
+Version: 1.0.2
+Homepage: https://github.com/hung319/OneShot-Termux
 Depends: python, pixiewps, wpa-supplicant, tsu, iw
 Description: Run WPS PIN attacks (Pixie Dust and bruteforce) without monitor mode with wpa_supplicant
