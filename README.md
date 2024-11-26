@@ -12,7 +12,7 @@ OneShot-Termux is a Implementation of [OneShot](https://github.com/drygdryg/OneS
 ```shell
 apt update -y && apt upgrade -y
 apt install wget root-repo openssl -y
-wget https://github.com/Rem01Gaming/OneShot-Termux/releases/download/v1.0.1/oneshot.deb
+wget https://github.com/hung319/OneShot-Termux/releases/download/oneshot/oneshot.deb
 apt install ./oneshot.deb
 ```
 
