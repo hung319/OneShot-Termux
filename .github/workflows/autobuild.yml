@@ -24,8 +24,8 @@ jobs:
     # Chạy lệnh Makefile
     - name: Run Makefile
       run: |
-        make install-dependence
-        make pack-deb
+        sudo make install-dependence
+        sudo make pack-deb
 
     # Đẩy file oneshot.deb lên GitHub Releases
     - name: Upload Release Artifact
